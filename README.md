@@ -19,4 +19,4 @@ Simple rock paper scissors game with GUI
 ![image](https://user-images.githubusercontent.com/85069947/125599279-0ac07552-a95a-4f0c-9b42-2de9e495399b.png)
 
 ## Developer
-Albert E (RadX) vradnisntlong@gmail.com
+Albert E (albertenrico.5@gmail.com)
